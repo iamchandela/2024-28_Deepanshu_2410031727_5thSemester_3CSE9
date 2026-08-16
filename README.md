@@ -7,8 +7,9 @@ This repository contains all the tasks and implementations completed as part of 
 * PowerOfTwoMaxHeap.java : Task 1 implementation of a modified heap with 2^x children per node.
 * DataProcessorSystem.java : Task 2 implementation of a dynamically reconfigurable data processing pipeline using Strategy Pattern and SOLID principles.
 * schema.sql : Task 3 implementation of a 3NF normalized relational database schema for Walmart's Pet Department.
+* Data_Munger.py : Task 4 implementation of a Python script to extract, transform, and load CSV data into an SQLite database.
 
-🛠 Tasks Summary
+🔨 Tasks Summary
 
 Task 1: Advanced Data Structures
 
@@ -28,12 +29,14 @@ Task 3: Relational Database Design
 * Created ER Diagram mapping entities for products, food, toys, apparel, customers, transactions, and shipments.
 * Structured primary keys, foreign keys, and relational constraints to ensure data integrity.
 
-Task 4: Data Munging (In Progress)
+Task 4: Data Munging
 
-* Handling large-scale data ingestion and transformation.
+* Developed a Python data munging pipeline to parse and process disparate CSV spreadsheets.
+* Extracted and combined shipment identifiers, product details, quantities, origins, and destinations.
+* Populated the SQLite database (shipping.db) with robust error handling and type-safety mechanisms.
 
 💻 Tech Stack
 
-* Language: Java 17+, SQL
+* Language: Java 17+, SQL, Python 3
 * Version Control: Git & GitHub
 * Architecture Tools: UML, PlantUML
