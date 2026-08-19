@@ -41,4 +41,4 @@ Task 4: Data Munging
 * Version Control: Git & GitHub
 * Architecture Tools: UML, PlantUML
 
-Certification Link - https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a81679dba854243f450a1f4_1786879712477_completion_certificate.pdf
+Certificate Link - https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a81679dba854243f450a1f4_1786879712477_completion_certificate.pdf
